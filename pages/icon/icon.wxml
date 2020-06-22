@@ -1,0 +1,8 @@
+<!--pages/icon/icon.wxml-->
+<icon type="success"></icon>
+<icon type="success" size="30"></icon>
+<icon type="success" size="40"></icon>
+<icon type="info"></icon>
+<icon type="warn"></icon>
+<icon type="cancel"></icon>
+

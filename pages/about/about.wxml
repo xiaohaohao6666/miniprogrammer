@@ -1,0 +1,17 @@
+<!--pages/about/about.wxml-->
+<view class="container">
+  <swiper autoplay  current-item-id="item1" interval="3000" duration="200" indicator-dots indicator-color="white" indicator-active-color="red" class="swiper-img">
+    <swiper-item item-id="item1">
+      <image src="https://tu.tianzuida.com/pic/upload/vod/2020-04-05/202004051586043074.jpg"></image>
+    </swiper-item>
+    <swiper-item item-id="item2">
+      <image src="https://tu.tianzuida.com/pic/upload/vod/2020-04-05/202004051586042973.jpg"></image>
+    </swiper-item>
+  </swiper>
+</view>
+
+<view class="view-flex">
+  <view class="view-size bg-red"></view>
+  <view class="view-size bg-yellow"></view>
+  <view class="view-size bg-blue"></view>
+</view>

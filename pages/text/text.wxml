@@ -1,0 +1,4 @@
+<!--pages/text/text.wxml-->
+<text>hdfhehfefh</text>
+<text selectable="{{true}}">hdfhehfefh</text>
+<text>hdfhehfefh</text>

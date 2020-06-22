@@ -1,0 +1,9 @@
+<!--pages/reg/reg.wxml-->
+<view>
+  <text>用户名: </text>
+  <input placeholder="请输入"></input>
+  <text>密码: </text>
+  <input password placeholder="请输入"></input>
+  <button type="success">提交</button>
+  <button type="warn">重置</button>
+</view>

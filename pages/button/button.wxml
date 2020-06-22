@@ -1,0 +1,9 @@
+<!--pages/button/button.wxml-->
+<button type="default" loading>按钮</button>
+<button type="primary">按钮</button>
+<button type="warn">按钮</button>
+<button size="mini">按钮</button>
+
+
+<input type="" placeholder="plase input"></input>
+<input password></input>
